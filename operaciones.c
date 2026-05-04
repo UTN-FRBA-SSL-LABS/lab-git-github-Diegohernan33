@@ -31,5 +31,5 @@ int multiplicar(int a, int b) {
  * Retorna 1 si es par, 0 si es impar.
  */
 int esPar(int n) {
-    return (n % 2) == 0;
+    return (n % 2) == 0; /* version main */
 }
